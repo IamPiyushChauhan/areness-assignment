@@ -1,0 +1,264 @@
+/* Styles for the main container */
+.App-main {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Styles for form container */
+fieldset {
+  display: flex;
+  width: 480px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  flex-direction: column;
+}
+
+/* Styles for labels */
+label {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+/* Styles for required indicator */
+sup {
+  color: red;
+  top: -2px;
+  font-size: 95%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* Styles for input fields and selects */
+input,
+select {
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  height: 32px;
+  padding: 0 8px;
+}
+
+/* Styles for form fields */
+.Field {
+  position: relative;
+  padding-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Styles for field error messages */
+.FieldError {
+  position: absolute;
+  bottom: -6px;
+  color: red;
+  font-size: 12px;
+}
+
+/* Styles for rows */
+.Row {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Styles for buttons */
+button {
+  padding: 12px;
+  width: 240px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: darkblue;
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Styles for disabled buttons */
+button:disabled,
+button[disabled] {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+}
+/* Styles for the main container */
+.App-main {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Styles for form container */
+fieldset {
+  display: flex;
+  width: 480px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  flex-direction: column;
+}
+
+/* Styles for labels */
+label {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+/* Styles for required indicator */
+sup {
+  color: red;
+  top: -2px;
+  font-size: 95%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* Styles for input fields and selects */
+input,
+select {
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  height: 32px;
+  padding: 0 8px;
+}
+
+/* Styles for form fields */
+.Field {
+  position: relative;
+  padding-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Styles for field error messages */
+.FieldError {
+  position: absolute;
+  bottom: -6px;
+  color: red;
+  font-size: 12px;
+}
+
+/* Styles for rows */
+.Row {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Styles for buttons */
+button {
+  padding: 12px;
+  width: 240px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: darkblue;
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Styles for disabled buttons */
+button:disabled,
+button[disabled] {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+}
+/* Styles for the main container */
+.App-main {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Styles for form container */
+fieldset {
+  display: flex;
+  width: 480px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  flex-direction: column;
+}
+
+/* Styles for labels */
+label {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+/* Styles for required indicator */
+sup {
+  color: red;
+  top: -2px;
+  font-size: 95%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* Styles for input fields and selects */
+input,
+select {
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  height: 32px;
+  padding: 0 8px;
+}
+
+/* Styles for form fields */
+.Field {
+  position: relative;
+  padding-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Styles for field error messages */
+.FieldError {
+  position: absolute;
+  bottom: -6px;
+  color: red;
+  font-size: 12px;
+}
+
+/* Styles for rows */
+.Row {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Styles for buttons */
+button {
+  padding: 12px;
+  width: 240px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: darkblue;
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Styles for disabled buttons */
+button:disabled,
+button[disabled] {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+}

@@ -1,0 +1,5 @@
+# Ignore node_modules in FrontEnd and BackEnd folders
+Assignment1/client/node_modules/
+Assignment1/server/node_modules/
+Assignment2/client/node_modules/
+Assignment2/server/node_modules/
